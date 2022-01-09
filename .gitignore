@@ -1,0 +1,5 @@
+.vscode/*
+gen/*
+bin/*
+Makefile
+.qmake.stash
